@@ -13,7 +13,7 @@
   <img align="center" alt="Isaac-Java" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Isaac-PHP" height="50" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Isaac-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="right" alt="Isaac-pic" height="30" width="40" src="https://media.discordapp.net/attachments/758289789459103748/916745159251746867/download20211206143722.png?width=473&height=473">
+  <img align="right" alt="Isaac-pic" height="150" src="https://media.discordapp.net/attachments/758289789459103748/916745159251746867/download20211206143722.png?width=473&height=473">
 </div>
 
 ##
